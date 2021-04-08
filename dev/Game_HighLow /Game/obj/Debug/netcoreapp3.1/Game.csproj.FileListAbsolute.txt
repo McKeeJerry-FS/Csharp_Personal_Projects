@@ -1,0 +1,24 @@
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Game/Game/bin/Debug/netcoreapp3.1/Game.deps.json
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Game/Game/bin/Debug/netcoreapp3.1/Game.runtimeconfig.json
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Game/Game/bin/Debug/netcoreapp3.1/Game.runtimeconfig.dev.json
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Game/Game/bin/Debug/netcoreapp3.1/Game.dll
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Game/Game/bin/Debug/netcoreapp3.1/Game.pdb
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Game/Game/obj/Debug/netcoreapp3.1/Game.csprojAssemblyReference.cache
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Game/Game/obj/Debug/netcoreapp3.1/Game.AssemblyInfoInputs.cache
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Game/Game/obj/Debug/netcoreapp3.1/Game.AssemblyInfo.cs
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Game/Game/obj/Debug/netcoreapp3.1/Game.csproj.CoreCompileInputs.cache
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Game/Game/obj/Debug/netcoreapp3.1/Game.dll
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Game/Game/obj/Debug/netcoreapp3.1/Game.pdb
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Game/Game/obj/Debug/netcoreapp3.1/Game.genruntimeconfig.cache
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_HighLow/Game/bin/Debug/netcoreapp3.1/Game.deps.json
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_HighLow/Game/bin/Debug/netcoreapp3.1/Game.runtimeconfig.json
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_HighLow/Game/bin/Debug/netcoreapp3.1/Game.runtimeconfig.dev.json
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_HighLow/Game/bin/Debug/netcoreapp3.1/Game.dll
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_HighLow/Game/bin/Debug/netcoreapp3.1/Game.pdb
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_HighLow/Game/obj/Debug/netcoreapp3.1/Game.csprojAssemblyReference.cache
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_HighLow/Game/obj/Debug/netcoreapp3.1/Game.AssemblyInfoInputs.cache
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_HighLow/Game/obj/Debug/netcoreapp3.1/Game.AssemblyInfo.cs
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_HighLow/Game/obj/Debug/netcoreapp3.1/Game.csproj.CoreCompileInputs.cache
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_HighLow/Game/obj/Debug/netcoreapp3.1/Game.dll
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_HighLow/Game/obj/Debug/netcoreapp3.1/Game.pdb
+/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_HighLow/Game/obj/Debug/netcoreapp3.1/Game.genruntimeconfig.cache
