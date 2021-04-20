@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D7FC9BDC-C902-4A97-AE93-F8501013720F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ToDoListConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoListConsoleApp/UI.cs">
+    <Files>
+      <File FileName="ToDoListConsoleApp/Program.cs" Line="17" Column="27" />
+      <File FileName="ToDoListConsoleApp/App.cs" Line="14" Column="29" />
+      <File FileName="ToDoListConsoleApp/User.cs" Line="19" Column="10" />
+      <File FileName="ToDoListConsoleApp/Menu.cs" Line="43" Column="43" />
+      <File FileName="ToDoListConsoleApp/UI.cs" Line="46" Column="14" />
+      <File FileName="ToDoListConsoleApp/Validation.cs" Line="8" Column="3" />
+      <File FileName="ToDoListConsoleApp/Data.cs" Line="19" Column="23" />
+      <File FileName="ToDoListConsoleApp/ListData.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoListConsoleApp" expanded="True">
+            <Node name="ToDoListConsoleApp" expanded="True">
+              <Node name="UI.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
