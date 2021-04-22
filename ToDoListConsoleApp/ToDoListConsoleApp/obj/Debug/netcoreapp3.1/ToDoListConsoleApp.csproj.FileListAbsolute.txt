@@ -10,3 +10,15 @@
 /Users/jerrymckeejr/Desktop/C# Projects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/netcoreapp3.1/ToDoListConsoleApp.dll
 /Users/jerrymckeejr/Desktop/C# Projects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/netcoreapp3.1/ToDoListConsoleApp.pdb
 /Users/jerrymckeejr/Desktop/C# Projects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/netcoreapp3.1/ToDoListConsoleApp.genruntimeconfig.cache
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/bin/Debug/netcoreapp3.1/ToDoListConsoleApp.deps.json
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/bin/Debug/netcoreapp3.1/ToDoListConsoleApp.runtimeconfig.json
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/bin/Debug/netcoreapp3.1/ToDoListConsoleApp.runtimeconfig.dev.json
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/bin/Debug/netcoreapp3.1/ToDoListConsoleApp.dll
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/bin/Debug/netcoreapp3.1/ToDoListConsoleApp.pdb
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/netcoreapp3.1/ToDoListConsoleApp.csprojAssemblyReference.cache
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/netcoreapp3.1/ToDoListConsoleApp.AssemblyInfoInputs.cache
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/netcoreapp3.1/ToDoListConsoleApp.AssemblyInfo.cs
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/netcoreapp3.1/ToDoListConsoleApp.csproj.CoreCompileInputs.cache
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/netcoreapp3.1/ToDoListConsoleApp.dll
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/netcoreapp3.1/ToDoListConsoleApp.pdb
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/netcoreapp3.1/ToDoListConsoleApp.genruntimeconfig.cache

@@ -25,6 +25,7 @@ namespace ToDoListConsoleApp
             UI.Animation("Loading");
             Console.Clear();
             UI.Header("  Welcome to ToDo Today  ");
+            Console.ReadKey();
             DisplayMenu(1);
         }
 

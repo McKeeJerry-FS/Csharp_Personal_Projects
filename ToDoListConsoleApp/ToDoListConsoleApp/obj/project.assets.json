@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jerrymckeejr/Desktop/C# Projects/ToDoListConsoleApp/ToDoListConsoleApp/ToDoListConsoleApp.csproj",
+      "projectUniqueName": "/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/ToDoListConsoleApp.csproj",
       "projectName": "ToDoListConsoleApp",
-      "projectPath": "/Users/jerrymckeejr/Desktop/C# Projects/ToDoListConsoleApp/ToDoListConsoleApp/ToDoListConsoleApp.csproj",
+      "projectPath": "/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/ToDoListConsoleApp.csproj",
       "packagesPath": "/Users/jerrymckeejr/.nuget/packages/",
-      "outputPath": "/Users/jerrymckeejr/Desktop/C# Projects/ToDoListConsoleApp/ToDoListConsoleApp/obj/",
+      "outputPath": "/Users/jerrymckeejr/Desktop/C#_Personal_Projects/ToDoListConsoleApp/ToDoListConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jerrymckeejr/.config/NuGet/NuGet.Config"

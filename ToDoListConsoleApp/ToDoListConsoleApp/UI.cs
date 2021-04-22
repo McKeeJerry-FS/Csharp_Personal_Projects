@@ -14,12 +14,12 @@ namespace ToDoListConsoleApp
         // Header
         public static void Header(string text)
         {
-            Console.WriteLine("============================");
+            Console.WriteLine("=============================================");
             Console.ForegroundColor = ConsoleColor.DarkGreen;
 
             Console.Write($"{text.ToUpper()}\r\n");
             Console.ResetColor();
-            Console.WriteLine("============================");
+            Console.WriteLine("=============================================");
         }
         // end Header()
 

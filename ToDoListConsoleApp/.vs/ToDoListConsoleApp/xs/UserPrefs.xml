@@ -3,13 +3,13 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="ToDoListConsoleApp/UI.cs">
     <Files>
       <File FileName="ToDoListConsoleApp/Program.cs" Line="17" Column="27" />
-      <File FileName="ToDoListConsoleApp/App.cs" Line="14" Column="29" />
-      <File FileName="ToDoListConsoleApp/User.cs" Line="19" Column="10" />
-      <File FileName="ToDoListConsoleApp/Menu.cs" Line="43" Column="43" />
+      <File FileName="ToDoListConsoleApp/App.cs" />
+      <File FileName="ToDoListConsoleApp/User.cs" />
+      <File FileName="ToDoListConsoleApp/Menu.cs" />
       <File FileName="ToDoListConsoleApp/UI.cs" Line="46" Column="14" />
-      <File FileName="ToDoListConsoleApp/Validation.cs" Line="8" Column="3" />
-      <File FileName="ToDoListConsoleApp/Data.cs" Line="19" Column="23" />
-      <File FileName="ToDoListConsoleApp/ListData.txt" Line="1" Column="1" />
+      <File FileName="ToDoListConsoleApp/Validation.cs" />
+      <File FileName="ToDoListConsoleApp/Data.cs" />
+      <File FileName="ToDoListConsoleApp/ListData.txt" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

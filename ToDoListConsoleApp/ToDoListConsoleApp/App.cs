@@ -12,6 +12,7 @@ namespace ToDoListConsoleApp
         public void Welcome()
         {
             Console.Clear();
+            
             Menu menu = new Menu();
             menu.Init();
         }
