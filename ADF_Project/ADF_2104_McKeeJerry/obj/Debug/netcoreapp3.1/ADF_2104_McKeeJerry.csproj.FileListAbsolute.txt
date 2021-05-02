@@ -1,0 +1,24 @@
+/Users/jerrymckeejr/Desktop/C# Projects/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/bin/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.deps.json
+/Users/jerrymckeejr/Desktop/C# Projects/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/bin/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.runtimeconfig.json
+/Users/jerrymckeejr/Desktop/C# Projects/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/bin/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.runtimeconfig.dev.json
+/Users/jerrymckeejr/Desktop/C# Projects/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/bin/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.dll
+/Users/jerrymckeejr/Desktop/C# Projects/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/bin/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.pdb
+/Users/jerrymckeejr/Desktop/C# Projects/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.csprojAssemblyReference.cache
+/Users/jerrymckeejr/Desktop/C# Projects/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.AssemblyInfoInputs.cache
+/Users/jerrymckeejr/Desktop/C# Projects/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.AssemblyInfo.cs
+/Users/jerrymckeejr/Desktop/C# Projects/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.csproj.CoreCompileInputs.cache
+/Users/jerrymckeejr/Desktop/C# Projects/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.dll
+/Users/jerrymckeejr/Desktop/C# Projects/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.pdb
+/Users/jerrymckeejr/Desktop/C# Projects/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.genruntimeconfig.cache
+/Users/jerrymckeejr/Desktop/adf-2104-McKeeJerry-FS/dev/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/bin/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.deps.json
+/Users/jerrymckeejr/Desktop/adf-2104-McKeeJerry-FS/dev/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/bin/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.runtimeconfig.json
+/Users/jerrymckeejr/Desktop/adf-2104-McKeeJerry-FS/dev/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/bin/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.runtimeconfig.dev.json
+/Users/jerrymckeejr/Desktop/adf-2104-McKeeJerry-FS/dev/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/bin/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.dll
+/Users/jerrymckeejr/Desktop/adf-2104-McKeeJerry-FS/dev/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/bin/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.pdb
+/Users/jerrymckeejr/Desktop/adf-2104-McKeeJerry-FS/dev/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.csprojAssemblyReference.cache
+/Users/jerrymckeejr/Desktop/adf-2104-McKeeJerry-FS/dev/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.AssemblyInfoInputs.cache
+/Users/jerrymckeejr/Desktop/adf-2104-McKeeJerry-FS/dev/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.AssemblyInfo.cs
+/Users/jerrymckeejr/Desktop/adf-2104-McKeeJerry-FS/dev/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.csproj.CoreCompileInputs.cache
+/Users/jerrymckeejr/Desktop/adf-2104-McKeeJerry-FS/dev/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.dll
+/Users/jerrymckeejr/Desktop/adf-2104-McKeeJerry-FS/dev/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.pdb
+/Users/jerrymckeejr/Desktop/adf-2104-McKeeJerry-FS/dev/ADF_2104_McKeeJerry/ADF_2104_McKeeJerry/obj/Debug/netcoreapp3.1/ADF_2104_McKeeJerry.genruntimeconfig.cache

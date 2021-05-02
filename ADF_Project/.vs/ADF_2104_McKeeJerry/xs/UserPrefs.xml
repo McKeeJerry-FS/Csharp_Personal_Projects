@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2CAF3614-FCE0-4DBA-A05D-A0C11216B2AE}|Default">
+  <MonoDevelop.Ide.ItemProperties.ADF__2104__McKeeJerry PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ADF_2104_McKeeJerry/Program.cs">
+    <Files>
+      <File FileName="ADF_2104_McKeeJerry/Program.cs" Line="5" Column="7" />
+      <File FileName="ADF_2104_McKeeJerry/App.cs" Line="19" Column="16" />
+      <File FileName="ADF_2104_McKeeJerry/User.cs" Line="1" Column="1" />
+      <File FileName="ADF_2104_McKeeJerry/Menu.cs" Line="1" Column="1" />
+      <File FileName="ADF_2104_McKeeJerry/UI.cs" />
+      <File FileName="ADF_2104_McKeeJerry/Validation.cs" />
+      <File FileName="ADF_2104_McKeeJerry/UserInfoList.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ADF_2104_McKeeJerry" expanded="True">
+            <Node name="ADF_2104_McKeeJerry" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
