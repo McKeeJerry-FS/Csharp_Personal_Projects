@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_TicTacToe/Game/TicTacToe.csproj": {}
+    "/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/TicTacToe.csproj": {}
   },
   "projects": {
-    "/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_TicTacToe/Game/TicTacToe.csproj": {
+    "/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_TicTacToe/Game/TicTacToe.csproj",
+        "projectUniqueName": "/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_TicTacToe/Game/TicTacToe.csproj",
+        "projectPath": "/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/TicTacToe.csproj",
         "packagesPath": "/Users/jerrymckeejr/.nuget/packages/",
-        "outputPath": "/Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_TicTacToe/Game/obj/",
+        "outputPath": "/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jerrymckeejr/.config/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

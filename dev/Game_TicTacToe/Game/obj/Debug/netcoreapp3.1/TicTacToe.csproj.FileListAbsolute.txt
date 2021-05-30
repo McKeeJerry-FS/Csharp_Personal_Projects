@@ -34,3 +34,15 @@
 /Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_TicTacToe/Game/obj/Debug/netcoreapp3.1/TicTacToe.dll
 /Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_TicTacToe/Game/obj/Debug/netcoreapp3.1/TicTacToe.pdb
 /Users/jerrymckeejr/Desktop/Application Development - Month 7/Week 1/Game_TicTacToe/Game/obj/Debug/netcoreapp3.1/TicTacToe.genruntimeconfig.cache
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/bin/Debug/netcoreapp3.1/TicTacToe.deps.json
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/bin/Debug/netcoreapp3.1/TicTacToe.runtimeconfig.json
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/bin/Debug/netcoreapp3.1/TicTacToe.runtimeconfig.dev.json
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/bin/Debug/netcoreapp3.1/TicTacToe.dll
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/bin/Debug/netcoreapp3.1/TicTacToe.pdb
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/obj/Debug/netcoreapp3.1/TicTacToe.csprojAssemblyReference.cache
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/obj/Debug/netcoreapp3.1/TicTacToe.AssemblyInfoInputs.cache
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/obj/Debug/netcoreapp3.1/TicTacToe.AssemblyInfo.cs
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/obj/Debug/netcoreapp3.1/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/obj/Debug/netcoreapp3.1/TicTacToe.dll
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/obj/Debug/netcoreapp3.1/TicTacToe.pdb
+/Users/jerrymckeejr/Desktop/C#_Personal_Projects/dev/Game_TicTacToe/Game/obj/Debug/netcoreapp3.1/TicTacToe.genruntimeconfig.cache

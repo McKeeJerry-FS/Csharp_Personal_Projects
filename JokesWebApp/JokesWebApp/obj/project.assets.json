@@ -7820,11 +7820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jerrymckeejr/Desktop/JokesWebApp/JokesWebApp/JokesWebApp.csproj",
+      "projectUniqueName": "/Users/jerrymckeejr/Desktop/C#_Personal_Projects/JokesWebApp/JokesWebApp/JokesWebApp.csproj",
       "projectName": "JokesWebApp",
-      "projectPath": "/Users/jerrymckeejr/Desktop/JokesWebApp/JokesWebApp/JokesWebApp.csproj",
+      "projectPath": "/Users/jerrymckeejr/Desktop/C#_Personal_Projects/JokesWebApp/JokesWebApp/JokesWebApp.csproj",
       "packagesPath": "/Users/jerrymckeejr/.nuget/packages/",
-      "outputPath": "/Users/jerrymckeejr/Desktop/JokesWebApp/JokesWebApp/obj/",
+      "outputPath": "/Users/jerrymckeejr/Desktop/C#_Personal_Projects/JokesWebApp/JokesWebApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jerrymckeejr/.config/NuGet/NuGet.Config"
@@ -7898,7 +7898,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }
