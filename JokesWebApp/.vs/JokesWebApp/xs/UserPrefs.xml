@@ -3,10 +3,10 @@
     <Files>
       <File FileName="JokesWebApp/Models/Joke.cs" Line="1" Column="1" />
       <File FileName="JokesWebApp/Views/Home/Index.cshtml" />
-      <File FileName="JokesWebApp/Views/Home/Privacy.cshtml" Line="7" Column="1" />
-      <File FileName="JokesWebApp/Controllers/HomeController.cs" Line="1" Column="1" />
-      <File FileName="JokesWebApp/Controllers/JokesController.cs" Line="77" Column="30" />
-      <File FileName="JokesWebApp/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="JokesWebApp/Views/Home/Privacy.cshtml" />
+      <File FileName="JokesWebApp/Controllers/HomeController.cs" />
+      <File FileName="JokesWebApp/Controllers/JokesController.cs" />
+      <File FileName="JokesWebApp/Models/ErrorViewModel.cs" />
       <File FileName="JokesWebApp/Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="1" Column="1" />
     </Files>
     <Pads>

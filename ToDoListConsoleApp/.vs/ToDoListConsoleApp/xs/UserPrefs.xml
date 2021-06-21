@@ -1,22 +1,22 @@
 ﻿<Properties StartupConfiguration="{D7FC9BDC-C902-4A97-AE93-F8501013720F}|Default">
   <MonoDevelop.Ide.ItemProperties.ToDoListConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoListConsoleApp/Menu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoListConsoleApp/User.cs">
     <Files>
       <File FileName="ToDoListConsoleApp/Program.cs" Line="17" Column="27" />
       <File FileName="ToDoListConsoleApp/App.cs" Line="15" Column="13" />
-      <File FileName="ToDoListConsoleApp/User.cs" />
+      <File FileName="ToDoListConsoleApp/User.cs" Line="1" Column="1" />
       <File FileName="ToDoListConsoleApp/Menu.cs" Line="28" Column="31" />
       <File FileName="ToDoListConsoleApp/UI.cs" Line="22" Column="77" />
       <File FileName="ToDoListConsoleApp/Validation.cs" />
-      <File FileName="ToDoListConsoleApp/Data.cs" />
-      <File FileName="ToDoListConsoleApp/ListData.txt" />
+      <File FileName="ToDoListConsoleApp/Data.cs" Line="1" Column="1" />
+      <File FileName="ToDoListConsoleApp/ListData.txt" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ToDoListConsoleApp" expanded="True">
             <Node name="ToDoListConsoleApp" expanded="True">
-              <Node name="Menu.cs" selected="True" />
+              <Node name="User.cs" selected="True" />
             </Node>
           </Node>
         </State>
